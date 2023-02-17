@@ -5,7 +5,7 @@
 - 🌱 Atualmente estou estudando JavaScript ...
 - 📫 Contate-me no email: reboucas.contato1@gmail.com ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoreboucass)](https://github.com/leoreboucass/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
