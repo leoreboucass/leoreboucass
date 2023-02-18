@@ -6,8 +6,8 @@
 
 
 <div>
- <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=leoreboucass&show_icons=true&theme=tokyonight"/>
- <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoreboucass&layout=compact&theme=tokyonight"/>
+ <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=leoreboucass&show_icons=true&theme=tokyonight"/>
+ <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoreboucass&layout=compact&theme=tokyonight"/>
 </div>
 
 
