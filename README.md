@@ -5,8 +5,8 @@
 - 🌱 Atualmente estou estudando JavaScript ...
 - 📫 Contate-me no email: reboucas.contato1@gmail.com ...
 
- (https://github-readme-stats.vercel.app/api?username=leoreboucass&show_icons=true&theme=tokyonight)](https://github.com/leoreboucass/github-readme-stats)
-("https://github-readme-stats.vercel.app/api/top-langs/?username=leoreboucass&layout=compact&langs_count=168theme=tokyonight")
+ ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoreboucass&show_icons=true&theme=tokyonight)](https://github.com/leoreboucass/github-readme-stats)
+
 
 
 
