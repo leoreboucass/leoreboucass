@@ -5,10 +5,10 @@
 - 🌱 Atualmente estou estudando JavaScript 
 - 📫 Contate-me no email: reboucas.contato1@gmail.com 
 
-
+<div>
  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=leoreboucass&show_icons=true&theme=tokyonight"/>
  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoreboucass&layout=compact&theme=tokyonight"/>
-
+</div>
 
 
 <div style="display: inline_block"><br>
