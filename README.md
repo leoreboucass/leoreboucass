@@ -7,6 +7,7 @@
 
 
  ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoreboucass&show_icons=true&theme=tokyonight)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoreboucass&hide_progress=true)](https://github.com/leoreboucass/github-readme-stats)
 
 
 
