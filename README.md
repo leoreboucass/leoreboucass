@@ -6,6 +6,8 @@
 - 📫 Contate-me no email: reboucas.contato1@gmail.com ...
 
 [![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoreboucass&show_icons=true&theme=tokyonight)](https://github.com/leoreboucass/github-readme-stats)
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoreboucass&layout=compact&langs_count=168theme=tokyonight"/>
+
 
 
 <div style="display: inline_block"><br>
