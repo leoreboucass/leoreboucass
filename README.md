@@ -1,15 +1,11 @@
 ### Olá! Sou o Leonardo Rebouças Busato 👋
 
-
-- 🔭 Hoje em dia trabalho com front-end 
-- 🌱 Atualmente estou estudando JavaScript 
-
-
 <div>
  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=leoreboucass&show_icons=true&theme=tokyonight"/>
  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoreboucass&layout=compact&theme=tokyonight"/>
 </div>
 
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
