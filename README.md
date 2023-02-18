@@ -1,9 +1,9 @@
 ### Olá! Sou o Leonardo Rebouças Busato 👋
 
 
-- 🔭 Hoje em dia trabalho com front-end ...
-- 🌱 Atualmente estou estudando JavaScript ...
-- 📫 Contate-me no email: reboucas.contato1@gmail.com ...
+- 🔭 Hoje em dia trabalho com front-end 
+- 🌱 Atualmente estou estudando JavaScript 
+- 📫 Contate-me no email: reboucas.contato1@gmail.com 
 
 
  ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoreboucass&show_icons=true&theme=tokyonight)
