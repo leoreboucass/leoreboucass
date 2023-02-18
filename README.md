@@ -3,7 +3,7 @@
 
 - 🔭 Hoje em dia trabalho com front-end 
 - 🌱 Atualmente estou estudando JavaScript 
-- 📫 Contate-me no email: reboucas.contato1@gmail.com 
+
 
 <div>
  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=leoreboucass&show_icons=true&theme=tokyonight"/>
