@@ -1,8 +1,10 @@
-### Olá! Sou o Leonardo Rebouças Busato 👋
+### Opa! Bem-vindo ao meu perfil 👋
 
 ##
 
 <div style="display: inline_block"><br>
+  ### Habilidades
+  
   <img align="center" alt="Leo-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
