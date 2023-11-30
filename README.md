@@ -1,19 +1,29 @@
-### Bem-vindo ao meu perfil 👋 
 
+<div align="left">
+  <a href="https://leoreboucass.github.io/">
+    <img src="https://github.com/leoreboucass/leoreboucass/img/portifolio.svg">
+  </a>
+  <a href="https://www.linkedin.com/in/leonardo-rebou%C3%A7as/">
+    <img src="https://github.com/leoreboucass/leoreboucass/img/linkedin.svg">
+  </a>
+</div>
 
-##
+<br>
+<br>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- </div>
- 
- ##
- 
- <div>
- <a href = "mailto:reboucas.contato1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/leonardo-rebou%C3%A7as/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://www.behance.net/leonardoreboucas" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
- </div>
- 
+<div align="left">
+  <a href="https://github.com/leoreboucass">
+    <img src="https://github.com/leoreboucass/leoreboucass/img/tipografia.svg">
+  </a>
+</div>
+
+<br>
+
+<div align="left">
+  <p> Atualmente estou realizando curso de React e também CC50 de Harvard na modalidade EAD.<br>
+
+  Sou apaixonado por design, gosto de criar interfaces clean e minimalistas. </p>
+</div>
+
+<br>
+
