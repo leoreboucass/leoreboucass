@@ -20,9 +20,7 @@
 <br>
 
 <div align="left">
-  <p> Atualmente estou realizando curso de React e também CC50 de Harvard na modalidade EAD.<br>
-
-  Sou apaixonado por design, gosto de criar interfaces clean e minimalistas. </p>
+  <p> Apaixonado por design, gosto de criar interfaces clean e minimalistas. </p>
 </div>
 
 <br>
